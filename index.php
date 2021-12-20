@@ -41,8 +41,8 @@
 			message: 'Hello Hello',
 			tasklist: [
 				newTask("Overview Devops","Jenkins","12/20/2021","12/20/2021","0.5"),
-				newTask("Overview Jenkins","Jenkins","12/20/2021","new","new"),
-				newTask("new task 2","Jenkins","12/20/2021","",""),
+				newTask("Overview Jenkins","Jenkins","12/20/2021","n/a","n/a"),
+				newTask("winter intern 1234","Jenkins","12/20/2021","",""),
 				newTask("new task 2","Jenkins","12/20/2021","",""),
 				newTask("new task 3","Jenkins","12/20/2021","",""),
 				newTask("Documentation: Jenkins functions","Jenkins","12/20/2021","",""),
