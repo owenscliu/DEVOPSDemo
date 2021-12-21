@@ -7,7 +7,7 @@
 
 <div id="app">
 	<?php 
-		echo "<h1 style='color:green'>Hello Owen, welcome to your task list management system (demo)<h1>" ?>
+		echo "<h1 style='color:green'>Hello Owen, welcome to your task list management system (demo), thanks for invitation!<h1>" ?>
 	<table class="table">
 	<h3>{{today}} </h3>	
 	<thead>
