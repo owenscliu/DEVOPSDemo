@@ -7,7 +7,7 @@
 
 <div id="app">
 	<?php 
-		echo "<h1 style='color:green'>Hello Owen, welcome to your task list management system (demo), thanks for invitation!<h1>" ?>
+		echo "<h1 style='color:green'>This site is used to illustrate the steps to integrate VScode to GitHub and Jenkins<h1>" ?>
 	<table class="table">
 	<h3>{{today}} </h3>	
 	<thead>
@@ -38,11 +38,11 @@
 		el: '#app',
 		data: {
 			today : moment(new Date()).format('L'),
-			message: 'Hello Hello',
+			message: 'HIHIHIHIHIHI',
 			tasklist: [
 				newTask("Overview Devops","Jenkins","12/20/2021","12/20/2021","0.5"),
-				newTask("Overview Jenkins","Jenkins","12/20/2021","newchanges","n/a"),
-				newTask("Connecting Jenkins","Jenkins","12/20/2021","12/20?","0"),
+	            newTask("Overview Jenkins","Jenkins","12/20/2021","12/20/21","0.5"),
+				newTask("Connecting Jenkins","Jenkins","12/20/2021","new","0"),
 				newTask("new task 2","Jenkins","12/20/2021","",""),
 				newTask("new task 3","Jenkins","12/20/2021","",""),
 				newTask("Documentation: Jenkins functions","Jenkins","12/20/2021","",""),
