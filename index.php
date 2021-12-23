@@ -7,7 +7,7 @@
 
 <div id="app">
 	<?php 
-		echo "<h1 style='color:green'>This site is used to illustrate the steps to integrate VScode to GitHub and Jenkins<h1>" ?>
+		echo "<h1 style='color:green'>This site is used to illustrate the steps to integrate VScode to GitHub and Jenkins<h1>"?>
 	<table class="table">
 	<h3>{{today}} </h3>	
 	<thead>
